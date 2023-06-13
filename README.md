@@ -23,3 +23,6 @@
     *{}
     select all
 
+
+# section_6===================================
+### Color property
