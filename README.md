@@ -26,3 +26,8 @@
 
 # section_6===================================
 ### Color property
+### Font-weight
+### Font-family
+### Text-Align
+### Font Size
+### Use googlefont
