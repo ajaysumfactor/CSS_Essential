@@ -53,3 +53,9 @@
     4. Border
 
 #### combining css selector
+
+#### Positining
+    static
+    relative
+    absolute
+    fixed
