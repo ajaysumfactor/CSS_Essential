@@ -51,3 +51,11 @@
         Space around a element's content,and its border.
     3. Content
     4. Border
+
+#### combining css selector
+
+#### Positining
+    static
+    relative
+    absolute
+    fixed
